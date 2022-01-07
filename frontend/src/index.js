@@ -4,9 +4,11 @@ import './index.css';
 import App from './App';
 
 const Root = () => {
-  <div>
-    <App/>
-  </div>
+  return (
+    <div>
+      <App />
+    </div>
+  )
 }
 
 ReactDOM.render(
