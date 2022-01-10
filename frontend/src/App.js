@@ -2,7 +2,7 @@
 function App() {
   return (
     <div>
-      Spotify Clone
+      App
     </div>
   );
 }
